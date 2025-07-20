@@ -1,0 +1,15 @@
+### Level 1 – Task 2: City Analysis
+
+**Objective**:
+- Identify the city with the highest number of restaurants.
+- Calculate the average rating for restaurants in each city.
+- Determine the city with the highest average rating.
+
+**Findings**:
+- 🏙️ City with Most Restaurants: New Delhi (5473 restaurants)
+- 🌟 City with Highest Average Rating: Inner City (4.90 average rating)
+
+**Approach**:
+- Cleaned the dataset to remove missing values.
+- Used `groupby` and `value_counts` to calculate city-wise stats.
+- Visualized results using bar charts with `matplotlib`.

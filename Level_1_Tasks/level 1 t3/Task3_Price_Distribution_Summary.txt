@@ -1,0 +1,15 @@
+### Level 1 – Task 3: Price Range Distribution
+
+**Objective**:
+- Visualize how restaurants are distributed across different price ranges (1 to 4).
+- Calculate the percentage of restaurants in each category.
+
+**Approach**:
+- Used Pandas to count frequency of each price range using `value_counts()`.
+- Calculated percentage distribution of each price range relative to total restaurants.
+- Visualized the distribution using a bar chart with Matplotlib.
+- Saved the plot as 'Price_Range_Distribution.png'.
+
+**Insights**:
+- Price range 2 and 3 had the highest number of restaurants.
+- Fewer restaurants were in price range 1 (low-end) and 4 (premium).

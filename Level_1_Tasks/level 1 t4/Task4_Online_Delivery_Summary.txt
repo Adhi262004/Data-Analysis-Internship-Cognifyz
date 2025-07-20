@@ -1,0 +1,16 @@
+### Level 1 – Task 4: Online Delivery Analysis
+
+**Objective**:
+- Determine the percentage of restaurants that offer online delivery.
+- Compare the average ratings of restaurants with and without online delivery.
+
+**Approach**:
+- Used `value_counts()` on 'Has Online delivery' to compute delivery distribution.
+- Dropped missing values in rating and delivery columns.
+- Grouped data to calculate average ratings for each delivery option.
+- Created a bar chart to visualize the comparison.
+- Saved the chart as 'Online_Delivery_Rating_Comparison.png'.
+
+**Insights**:
+- This task shows whether online delivery correlates with customer ratings.
+- Can be useful for market targeting or service improvements.
