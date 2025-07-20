@@ -1,0 +1,16 @@
+### Level 2 – Task 1: Cuisine Combination Analysis
+
+**Objective**:
+- Identify the most common cuisine combinations.
+- Analyze which combinations receive higher average ratings.
+
+**Approach**:
+- Grouped full `Cuisines` combinations as they appear.
+- Counted how often each combination appears.
+- Calculated the average rating for each combination.
+- Visualized the Top 10 combinations using a horizontal bar chart.
+
+**Top 3 Cuisine Combinations**:
+1. North Indian, Chinese — 902 restaurants, Avg Rating: 3.9
+2. North Indian — 777 restaurants, Avg Rating: 3.95
+3. Chinese — 612 restaurants, Avg Rating: 3.86

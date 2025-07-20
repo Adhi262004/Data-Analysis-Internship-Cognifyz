@@ -1,0 +1,19 @@
+### Level 2 – Task 3: Price Range vs Rating
+
+**Objective**:
+- Analyze how different price ranges relate to restaurant ratings.
+
+**Approach**:
+- Grouped restaurants by 'Price range'.
+- Counted number of restaurants in each range.
+- Calculated average rating per range.
+- Visualized both metrics using a bar-line combination chart.
+
+**Insights**:
+- Most restaurants fall in Price Range 1.
+- Higher price ranges tend to have slightly higher average ratings.
+- Avg Rating increases from ~3.2 (low) to ~4.0 (high-end).
+
+**Example**:
+Price Range 1 — Many restaurants, Avg Rating: ~3.2  
+Price Range 4 — Fewer restaurants, Avg Rating: ~4.0

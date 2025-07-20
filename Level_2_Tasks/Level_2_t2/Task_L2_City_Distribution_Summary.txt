@@ -1,0 +1,15 @@
+### Level 2 – Task 2: Geographic Mapping
+
+**Objective**:
+- Determine which cities have the most restaurants.
+
+**Approach**:
+- Grouped data by 'City'
+- Counted the number of restaurants in each city
+- Sorted and selected the Top 10 cities
+- Visualized the result using a bar chart
+
+**Top 3 Cities**:
+1. New Delhi — 5473 restaurants
+2. Gurgaon — 1118 restaurants
+3. Noida — 1080 restaurants
